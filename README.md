@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=docbobo&show_icons=true&hide_border=true&theme=slateorange&bg_color=00000000&rank_icon=github&hide=issues,contribs"
+      srcset="https://github-readme-stats.vercel.app/api?username=docbobo&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&rank_icon=github&hide=issues,contribs"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -12,7 +12,7 @@
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=docbobo&layout=compact&hide_border=true&theme=slateorange&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=docbobo&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
